@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/summer-is-coming/static/css/main.e3c3efa3.chunk.css",
+    "main.js": "/summer-is-coming/static/js/main.32333913.chunk.js",
+    "main.js.map": "/summer-is-coming/static/js/main.32333913.chunk.js.map",
+    "runtime-main.js": "/summer-is-coming/static/js/runtime-main.6fff84dc.js",
+    "runtime-main.js.map": "/summer-is-coming/static/js/runtime-main.6fff84dc.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/summer-is-coming/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.272eebdd.chunk.js": "/summer-is-coming/static/js/2.272eebdd.chunk.js",
+    "static/js/2.272eebdd.chunk.js.map": "/summer-is-coming/static/js/2.272eebdd.chunk.js.map",
+    "index.html": "/summer-is-coming/index.html",
+    "precache-manifest.758da8453f4146b1b69e8ce1bbe08a31.js": "/summer-is-coming/precache-manifest.758da8453f4146b1b69e8ce1bbe08a31.js",
+    "service-worker.js": "/summer-is-coming/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/summer-is-coming/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.e3c3efa3.chunk.css.map": "/summer-is-coming/static/css/main.e3c3efa3.chunk.css.map",
+    "static/js/2.272eebdd.chunk.js.LICENSE.txt": "/summer-is-coming/static/js/2.272eebdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fff84dc.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.272eebdd.chunk.js",
+    "static/css/main.e3c3efa3.chunk.css",
+    "static/js/main.32333913.chunk.js"
+  ]
+}
